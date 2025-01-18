@@ -12,7 +12,7 @@ Este repositorio es un proyecto de ejemplo creado en **Spring Boot** para gestio
 ## Requisitos previos
 
 - **Java 8** o superior
-- **Maven** para la gestión de dependencias
+- **Maven** para la gestión de dependencias  
 
 ## Instalación
 
